@@ -1,0 +1,61 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size:50px;
+}
+span{
+    color: orange;
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+    
+    
+}
+
+.half-wieth{
+    width: 50%;
+    padding-left:30px
+}
+.half-wieth img{
+    width: 80%;
+}
+.link-add{
+    text-decoration: none;
+    background-image: linear-gradient( orange,orangered);
+    padding: 10px 40px;
+    font-weight: 700;
+    color: bisque;
+    border-radius:7px
+
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+.db-text{
+    width: 80%;
+    padding-left: 30px;
+    
+}
+.db-image{
+    padding-left: 50px;
+    width: 50%;
+
+}
+.db-text a{
+    text-decoration:none;
+    background-image: linear-gradient(orange,orangered);
+    border-radius:10px;
+    padding: 10px 40px;
+    font-weight: 700;
+    color: #fff;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right bottom
+}
